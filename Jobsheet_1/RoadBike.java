@@ -1,4 +1,4 @@
-package Jobsheet_1s;
+package Jobsheet_1;
 
 public class RoadBike extends Bike {
     private int tireWidth;
